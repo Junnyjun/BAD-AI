@@ -9,3 +9,4 @@ b = torch.tensor([4, 5, 6])
 c = a + b
 print(c)
 
+# colab 으로 이전
